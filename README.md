@@ -26,11 +26,6 @@
 </p>
  
  
-<h3 align="left">System:</h3>
-<p align="left"> 
-    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="https://www.pngkit.com/png/detail/19-194579_upgrade-gobierno-open-business-logo-windows-10-home.png" alt="Windows 10" width="60" height="60"/> </a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
