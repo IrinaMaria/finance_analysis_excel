@@ -6,7 +6,7 @@
 
 ## Learning Objectives 
 * Getting familiar with reading docx format files. 
-* Understanding how we can use an image to produce the shape.  
+* Understanding how I can use an image to produce the shape.  
 * Having fun !
 
 
